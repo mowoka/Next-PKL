@@ -1,0 +1,3 @@
+### List Category
+Category=science,business,sports,technology,entertainment,health
+### request awal ke general
